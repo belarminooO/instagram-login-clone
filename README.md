@@ -45,7 +45,7 @@ Abra `index.html` no navegador. Para aceder diretamente ao registo, abra `signup
 
 ---
 
-## Contacto
+## Contactos
 
 <a href="https://www.linkedin.com/in/belarmino-sacate-1b830037b/">
   <img align="center" alt="LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
